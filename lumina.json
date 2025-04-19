@@ -1,12 +1,12 @@
 {
-  "users": [
+  "tokens": [
     {
-      "username": "123",
-      "password": "123"
+      "person": "caleb",
+      "tokendata": "enthr"
     },
     {
-      "username": "john_doe",
-      "password": "mypassword"
+      "person": "cam",
+      "tokendata": "lit81"
     }
   ]
 }
